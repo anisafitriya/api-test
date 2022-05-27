@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: User
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 39.328 s <<< FAILURE! - in User
+User.POST - As Admin I have be able to create new user  Time elapsed: 2.096 s  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'I receive valid HTTP response code 201' is undefined.
+You can implement this step using the snippet(s) below:
+
+@Then("I receive valid HTTP response code {int}")
+public void i_receive_valid_http_response_code(Integer int1) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+

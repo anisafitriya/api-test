@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="User" skipped="1" tests="2" time="37.13" timestamp="2022-05-27 08:50:16"><testcase name="GET - As admin I have be able to get detail user"/><testcase name="POST - As Admin I have be able to create new user"><skipped/></testcase></testsuite>
